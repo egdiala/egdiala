@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Egwuchukwu
+
+Creative Frontend Engineer ⚡️ Designing beautiful user interfaces with [Vue](http://vuejs.org/).
+
+- 🔭 I’m currently working on a Vue UI Kit
+- 👯 I’m looking to collaborate on any open source projects
+- 📫 How to reach me: [<a href="mailto:dialaegwuchukwu@gmail.com">Send an email.</a>]
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=egdiala&show_icons=true)  
 
 <!--
 **egdiala/egdiala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
