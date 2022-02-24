@@ -4,7 +4,7 @@ Creative Frontend Engineer ⚡️ Designing beautiful user interfaces with [Vue]
 
 - 🔭 I’m currently working on a Vue UI Kit
 - 👯 I’m looking to collaborate on any open source projects
-- 📫 How to reach me: [<a href="mailto:dialaegwuchukwu@gmail.com">Send an email.</a>]
+- 📫 How to reach me: <a href="mailto:dialaegwuchukwu@gmail.com">Send an email</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=egdiala&show_icons=true)  
 
