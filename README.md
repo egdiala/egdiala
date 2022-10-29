@@ -2,7 +2,7 @@
 
 Creative Frontend Engineer ⚡️ Designing beautiful user interfaces with [Vue](http://vuejs.org/).
 
-- 🔭 I’m currently working on a Vue UI Kit
+- 🔭 I’m currently building open source packages for the Vue ecosystem at [NenLabs](https://github.com/NenLabs)
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me: <a href="mailto:dialaegwuchukwu@gmail.com">Send an email</a>
 
